@@ -2,6 +2,7 @@
 [tiptap](https://github.com/ueberdosis/tiptap) is a renderless and extendable rich-text editor for Vue.js.
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub)](https://github.com/sponsors/ueberdosis)
 
 ## Svelte
 - [tiptap-svelte](https://github.com/andrewjk/tiptap-svelte) by @andrewjk

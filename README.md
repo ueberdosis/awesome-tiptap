@@ -31,3 +31,7 @@
 ## Python
 - [Python Library that converts tiptap JSON](https://github.com/scrolltech/tiptapy) @scrolltech
 
+## Apps
+
+- [GitLab's editor](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/assets/javascripts/content_editor)
+- [Notebag note-taking app](https://github.com/pretzelhands/notebag) by @pretzelhands

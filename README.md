@@ -2,7 +2,6 @@
 A headless, framework-agnostic and extendable rich text editor, based on [ProseMirror](https://github.com/ProseMirror/prosemirror).
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg)](https://github.com/ueberdosis/awesome-tiptap/graphs/contributors)
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub)](https://github.com/sponsors/ueberdosis)
 
 ## Community extensions

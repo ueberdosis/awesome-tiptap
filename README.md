@@ -1,37 +1,50 @@
-# Awesome tiptap
-[tiptap](https://github.com/ueberdosis/tiptap) is a renderless and extendable rich-text editor for Vue.js.
+# Awesome Tiptap
+A headless, framework-agnostic and extendable rich text editor, based on [ProseMirror](https://github.com/ProseMirror/prosemirror).
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg)](https://github.com/ueberdosis/awesome-tiptap/graphs/contributors)
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub)](https://github.com/sponsors/ueberdosis)
 
+## Community extensions
+- [Official list of community extensions](https://github.com/ueberdosis/tiptap/issues/819)
+- [tiptap-languagetool](https://github.com/sereneinserenade/tiptap-languagetool) by @sereneinserenade
+- [tiptap-comment-extension](https://github.com/sereneinserenade/tiptap-comment-extension) by @sereneinserenade
+
+## Vue.js
+- [tiptap-custom-link-vue-router](https://github.com/worldpwn/tiptap-custom-link-vue-router) by @worldpwn
+
+## Angular
+- [ngx-tiptap](https://github.com/sibiraj-s/ngx-tiptap) by @sibiraj-s
+
 ## Svelte
-- [tiptap-svelte](https://github.com/andrewjk/tiptap-svelte) by @andrewjk
-
-## Quasar
-- [Quasar Tiptap Demo](https://github.com/kfields/quasar-tiptap-demo) @kfields
-- [WYSIWYG editor for Quasar Framework](https://github.com/donotebase/quasar-tiptap) by @mekery
-
-## Vuetify
-- [WYSIWYG editor for Vuetify](https://github.com/iliyaZelenko/tiptap-vuetify) by @iliyaZelenko
-
-## Element UI
-- [WYSIWYG editor for Element UI](https://github.com/Leecason/element-tiptap) by @Leecason
-
-## Collaborative editing
-* [Y.js with tiptap](https://github.com/yjs/yjs-demos/tree/master/tiptap)
-* [Easy Collaborative Editor With tiptap and ProseMirror](https://medium.com/weekly-webtips/easy-collaborative-editor-with-tiptap-and-prosemirror-baa3314636c6) by @naept
-* [tiptap-collab-server](https://github.com/naept/tiptap-collab-server) by @naept
-* [tiptap-extension-collaboration](https://github.com/naept/tiptap-extension-collaboration) by @naept
+- [svelte-tiptap](https://github.com/sibiraj-s/svelte-tiptap) by @sibiraj-s
 
 ## PHP
+- [Laravel Nova Tiptap Editor Field](https://github.com/manogi/nova-tiptap) by @manogi
 - [html-to-prosemirror](https://github.com/ueberdosis/html-to-prosemirror) by @hanspagel
 - [prosemirror-to-html](https://github.com/ueberdosis/prosemirror-to-html) by @hanspagel
-- [Laravel Nova Tiptap Editor Field](https://github.com/manogi/nova-tiptap) by @manogi
 
 ## Python
-- [Python Library that converts tiptap JSON](https://github.com/scrolltech/tiptapy) @scrolltech
+- [Python Library that converts Tiptap JSON](https://github.com/scrolltech/tiptapy) by @scrolltech
 
-## Apps
+## Collaborative editing
+- [Hocuspocus collaborative editing backend](https://hocuspocus.dev) by @ueberdosis
 
-- [GitLab's editor](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/assets/javascripts/content_editor)
+## Articles
+- [Migration from tiptap v.1 to tiptap v.2](https://dev.to/worldpwn/migration-from-tiptap-v1-to-tiptap-v2-1lh3)
+
+## Open source projects using Tiptap
+- [GitLab’s editor](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/assets/javascripts/content_editor)
+- [linked - journal app](https://github.com/lostdesign/linked) by @lostdesign
+- [Nextcloud Text - collaborative document editing using Markdown](https://github.com/nextcloud/text) by @nextcloud
 - [Notebag note-taking app](https://github.com/pretzelhands/notebag) by @pretzelhands
+
+## Who’s using Tiptap?
+- [Gamma](https://gamma.app/#recent)
+- [mymind](https://mymind.com/)
+- [DocIQ](https://www.dociq.io/)
+- [Statamic](https://statamic.com/)
+- [Letter](https://letter.so/)
+- [Primo](https://primo.af/)
+- [OnePile](https://onepile.app/) by @holtwick
+- [Storipress](https://storipress.com/)

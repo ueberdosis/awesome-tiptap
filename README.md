@@ -47,3 +47,4 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Primo](https://primo.af/)
 - [OnePile](https://onepile.app/) by @holtwick
 - [Storipress](https://storipress.com/)
+- [Vizy](https://verbb.io/craft-plugins/vizy/features)

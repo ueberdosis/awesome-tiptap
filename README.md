@@ -8,6 +8,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Official list of community extensions](https://github.com/ueberdosis/tiptap/issues/819)
 - [tiptap-languagetool](https://github.com/sereneinserenade/tiptap-languagetool) by @sereneinserenade
 - [tiptap-comment-extension](https://github.com/sereneinserenade/tiptap-comment-extension) by @sereneinserenade
+- [tiptap-search-and-replace](https://github.com/sereneinserenade/tiptap-search-n-replace-demo) by @sereneinserenade
 
 ## Vue.js
 - [tiptap-custom-link-vue-router](https://github.com/worldpwn/tiptap-custom-link-vue-router) by @worldpwn

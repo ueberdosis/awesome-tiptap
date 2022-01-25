@@ -23,6 +23,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [svelte-tiptap](https://github.com/sibiraj-s/svelte-tiptap) by @sibiraj-s
 
 ## PHP
+- [Tiptap for PHP](https://github.com/ueberdosis/tiptap-php) by @ueberdosis (official)
 - [Laravel Nova Tiptap Editor Field](https://github.com/manogi/nova-tiptap) by @manogi
 - [html-to-prosemirror](https://github.com/ueberdosis/html-to-prosemirror) by @hanspagel
 - [prosemirror-to-html](https://github.com/ueberdosis/prosemirror-to-html) by @hanspagel

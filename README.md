@@ -54,3 +54,4 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [OnePile](https://onepile.app/) by [@holtwick](https://github.com/holtwick)
 - [Storipress](https://storipress.com/)
 - [Vizy](https://verbb.io/craft-plugins/vizy/features)
+- [Friday](https://friday.app/)

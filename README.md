@@ -11,6 +11,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [tiptap-search-and-replace](https://github.com/sereneinserenade/tiptap-search-n-replace-demo) by [@sereneinserenade](https://github.com/sereneinserenade)
 - [tiptap-extension-video](https://github.com/sereneinserenade/tiptap-extension-video) by [@sereneinserenade](https://github.com/sereneinserenade)
 - [tiptap-snippets-extension](https://github.com/sereneinserenade/tiptap-snippets-extension) by [@sereneinserenade](https://github.com/sereneinserenade)
+- [tiptap-media-resize](https://github.com/sereneinserenade/tiptap-media-resize) by [@sereneinserenade](https://github.com/sereneinserenade)
 
 ## Demos
 - [tiptap-markdown-demo](https://github.com/justinmoon/tiptap-markdown-demo) by [@justinmoon](https://github.com/justinmoon)

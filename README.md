@@ -28,8 +28,6 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 ## PHP
 - [Tiptap for PHP](https://github.com/ueberdosis/tiptap-php) by [@ueberdosis](https://github.com/ueberdosis) (official)
 - [Laravel Nova Tiptap Editor Field](https://github.com/manogi/nova-tiptap) by [@manogi](https://github.com/manogi)
-- [html-to-prosemirror](https://github.com/ueberdosis/html-to-prosemirror) by [@hanspagel](https://github.com/hanspagel)
-- [prosemirror-to-html](https://github.com/ueberdosis/prosemirror-to-html) by [@hanspagel](https://github.com/hanspagel)
 
 ## Python
 - [Python Library that converts Tiptap JSON](https://github.com/scrollstack/tiptapy) by [@scrollstack](https://github.com/scrollstack)

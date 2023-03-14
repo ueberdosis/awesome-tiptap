@@ -30,7 +30,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Laravel Nova Tiptap Editor Field](https://github.com/manogi/nova-tiptap) by [@manogi](https://github.com/manogi)
 
 ## Python
-- [Python Library that converts Tiptap JSON](https://github.com/scrollstack/tiptapy) by [@scrollstack](https://github.com/scrollstack)
+- [Python Library that converts Tiptap JSON](https://github.com/stckme/tiptapy) by [@stckme](https://github.com/stckme)
 - [django-tiptap : Use Tiptap Editor in django admin.](github.com/django-tiptap/django_tiptap) by [@solen0id](https://github.com/solen0id) and [@sereneinserenade](https://github.com/sereneinserenade))
 
 ## Collaborative editing

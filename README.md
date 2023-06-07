@@ -13,6 +13,8 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [tiptap-snippets-extension](https://github.com/sereneinserenade/tiptap-snippets-extension) by [@sereneinserenade](https://github.com/sereneinserenade)
 - [tiptap-media-resize](https://github.com/sereneinserenade/tiptap-media-resize) by [@sereneinserenade](https://github.com/sereneinserenade)
 - [tiptap-text-direction](https://github.com/amirhhashemi/tiptap-text-direction) by [@amirhhashemi](https://github.com/amirhhashemi)
+- [tiptap-comments](https://www.npmjs.com/package/@rcode-link/tiptap-comments) by [@radans](https://github.com/radans)
+- [tiptap-drawio-extension](https://www.npmjs.com/package/@rcode-link/tiptap-drawio) by [@radans](https://github.com/radans)
 
 ## Demos
 - [tiptap-markdown-demo](https://github.com/justinmoon/tiptap-markdown-demo) by [@justinmoon](https://github.com/justinmoon)

@@ -19,6 +19,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 
 ## Vue.js
 - [tiptap-custom-link-vue-router](https://github.com/worldpwn/tiptap-custom-link-vue-router) by [@worldpwn](https://github.com/worldpwn)
+- [vuetify-pro-tiptap](https://github.com/yikoyu/vuetify-pro-tiptap) by [@yikoyu](https://github.com/yikoyu)
 
 ## Angular
 - [ngx-tiptap](https://github.com/sibiraj-s/ngx-tiptap) by [@sibiraj-s](https://github.com/sibiraj-s)

@@ -49,6 +49,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Notebag note-taking app](https://github.com/pretzelhands/notebag) by [@pretzelhands](https://github.com/pretzelhands)
 - [PlaceNoter - Chrome Extension, that replaces chrome's new tab with note-taking app.](https://github.com/sereneinserenade/placenoter/) by [@sereneinserenade](https://github.com/sereneinserenade)
 - [think - A collabrative web app build on tiptap, support markdown](https://github.com/fantasticit/think) by [@fantasticit](https://github.com/fantasticit)
+- [mui-tiptap - A Material UI (MUI) styled WYSIWYG rich text editor, using Tiptap](https://github.com/sjdemartini/mui-tiptap) by [@sjdemartini](https://github.com/sjdemartini)
 
 ## Who’s using Tiptap?
 - [Gamma](https://gamma.app/#recent)

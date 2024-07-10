@@ -55,7 +55,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [mui-tiptap - A Material UI (MUI) styled WYSIWYG rich text editor, using Tiptap](https://github.com/sjdemartini/mui-tiptap) by [@sjdemartini](https://github.com/sjdemartini)
 - [Halo - Powerful and easy-to-use open source website building tool.](https://github.com/halo-dev/halo)
 - [Hyperlink Card by Halo - Convert normal hyperlinks to cards](https://github.com/halo-sigs/plugin-editor-hyperlink-card)
-- [Markdown / HTML Content Block by Halo - Insert HTML and Markdown blocks into the default editor](https://github.com/halo-sigs/plugin-hybrid-edit-block)
+- [Markdown / HTML Content Block by Halo - Insert HTML and Markdown blocks into the editor](https://github.com/halo-sigs/plugin-hybrid-edit-block)
 - [KaTeX Block by Halo - Provides KaTeX support](https://github.com/halo-sigs/plugin-katex)
 - [Text Diagram by Halo - Provides support for text drawing (Mermaid & PlantUML)](https://github.com/halo-sigs/plugin-text-diagram)
 

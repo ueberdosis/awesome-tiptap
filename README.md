@@ -22,10 +22,12 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 
 ## Demos
 - [tiptap-markdown-demo](https://github.com/justinmoon/tiptap-markdown-demo) by [@justinmoon](https://github.com/justinmoon)
+- [umo-editor-playground](https://demo.umodoc.com/editor?lang=en-US&theme=light) by [@umodoc](https://github.com/umodoc)
 
 ## Vue.js
 - [tiptap-custom-link-vue-router](https://github.com/worldpwn/tiptap-custom-link-vue-router) by [@worldpwn](https://github.com/worldpwn)
 - [vuetify-pro-tiptap](https://github.com/yikoyu/vuetify-pro-tiptap) by [@yikoyu](https://github.com/yikoyu)
+- [umo-editor](https://github.com/umodoc/editor) by [@umodoc](https://github.com/umodoc)
 
 ## Angular
 - [ngx-tiptap](https://github.com/sibiraj-s/ngx-tiptap) by [@sibiraj-s](https://github.com/sibiraj-s)
@@ -56,6 +58,12 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [think - A collabrative web app build on tiptap, support markdown](https://github.com/fantasticit/think) by [@fantasticit](https://github.com/fantasticit)
 - [mui-tiptap - A Material UI (MUI) styled WYSIWYG rich text editor, using Tiptap](https://github.com/sjdemartini/mui-tiptap) by [@sjdemartini](https://github.com/sjdemartini)
 - [Novel](https://novel.sh/) by [@steventey](https://github.com/steven-tey)
+- [umo-editor - open-source document editor based on Vue3 and Tiptap](https://github.com/umodoc/editor) by [@umodoc](https://github.com/umodoc)
+- [Halo - Powerful and easy-to-use open source website building tool.](https://github.com/halo-dev/halo)
+- [Hyperlink Card by Halo - Convert normal hyperlinks to cards](https://github.com/halo-sigs/plugin-editor-hyperlink-card)
+- [Markdown / HTML Content Block by Halo - Insert HTML and Markdown blocks into the editor](https://github.com/halo-sigs/plugin-hybrid-edit-block)
+- [KaTeX Block by Halo - Provides KaTeX support](https://github.com/halo-sigs/plugin-katex)
+- [Text Diagram by Halo - Provides support for text drawing (Mermaid & PlantUML)](https://github.com/halo-sigs/plugin-text-diagram)
 
 ## Who’s using Tiptap?
 - [Gamma](https://gamma.app/#recent)

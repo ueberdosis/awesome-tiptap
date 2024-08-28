@@ -17,6 +17,8 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [tiptap-drawio-extension](https://github.com/radans/tiptap-drawio-extension) by [@radans](https://github.com/radans)
 - [tiptap-extension-upload-image](https://github.com/carlosvaldesweb/tiptap-extension-upload-image) by [@carlosvaldesweb](https://github.com/carlosvaldesweb)
 - [tiptap-footnotes](https://github.com/buttondown/tiptap-footnotes) by [@buttondown](https://github.com/buttondown)
+- [tiptap-extension-figma](https://github.com/haydenbleasel/tiptap-extension-figma) by [@haydenbleasel](https://github.com/haydenbleasel)
+- [tiptap-extension-jira](https://github.com/haydenbleasel/tiptap-extension-jira) by [@haydenbleasel](https://github.com/haydenbleasel)
 
 ## Demos
 - [tiptap-markdown-demo](https://github.com/justinmoon/tiptap-markdown-demo) by [@justinmoon](https://github.com/justinmoon)
@@ -55,6 +57,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [PlaceNoter - Chrome Extension, that replaces chrome's new tab with note-taking app.](https://github.com/sereneinserenade/placenoter/) by [@sereneinserenade](https://github.com/sereneinserenade)
 - [think - A collabrative web app build on tiptap, support markdown](https://github.com/fantasticit/think) by [@fantasticit](https://github.com/fantasticit)
 - [mui-tiptap - A Material UI (MUI) styled WYSIWYG rich text editor, using Tiptap](https://github.com/sjdemartini/mui-tiptap) by [@sjdemartini](https://github.com/sjdemartini)
+- [Novel](https://novel.sh/) by [@steventey](https://github.com/steven-tey)
 - [umo-editor - open-source document editor based on Vue3 and Tiptap](https://github.com/umodoc/editor) by [@umodoc](https://github.com/umodoc)
 - [Halo - Powerful and easy-to-use open source website building tool.](https://github.com/halo-dev/halo)
 - [Hyperlink Card by Halo - Convert normal hyperlinks to cards](https://github.com/halo-sigs/plugin-editor-hyperlink-card)
@@ -73,3 +76,4 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Storipress](https://storipress.com)
 - [Vizy](https://verbb.io/craft-plugins/vizy/features)
 - [Friday](https://friday.app)
+- [Eververse](https://www.eververse.ai/)

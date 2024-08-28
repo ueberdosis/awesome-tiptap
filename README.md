@@ -19,6 +19,8 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [tiptap-footnotes](https://github.com/buttondown/tiptap-footnotes) by [@buttondown](https://github.com/buttondown)
 - [tiptap-extension-figma](https://github.com/haydenbleasel/tiptap-extension-figma) by [@haydenbleasel](https://github.com/haydenbleasel)
 - [tiptap-extension-jira](https://github.com/haydenbleasel/tiptap-extension-jira) by [@haydenbleasel](https://github.com/haydenbleasel)
+- [tiptap-extension-iframely](https://github.com/haydenbleasel/tiptap-extension-iframely) by [@haydenbleasel](https://github.com/haydenbleasel)
+- [tiptap-extension-global-drag-handle](https://github.com/NiclasDev63/tiptap-extension-global-drag-handle) by [@NiclasDev63](https://github.com/NiclasDev63)
 
 ## Demos
 - [tiptap-markdown-demo](https://github.com/justinmoon/tiptap-markdown-demo) by [@justinmoon](https://github.com/justinmoon)

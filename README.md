@@ -66,7 +66,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [KaTeX Block by Halo - Provides KaTeX support](https://github.com/halo-sigs/plugin-katex)
 - [Text Diagram by Halo - Provides support for text drawing (Mermaid & PlantUML)](https://github.com/halo-sigs/plugin-text-diagram)
 - [fylepad - a notepad with powerful rich-text editing based on Nuxt3 and Tiptap.](https://github.com/imrofayel/fylepad) by [@imrofayel](https://github.com/imrofayel/)
-
+- [Maily](https://maily.to/) by [@arikchakma](https://github.com/arikchakma)
 
 ## Who’s using Tiptap?
 - [Gamma](https://gamma.app/#recent)

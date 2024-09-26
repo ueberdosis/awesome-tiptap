@@ -80,4 +80,5 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Vizy](https://verbb.io/craft-plugins/vizy/features)
 - [Friday](https://friday.app)
 - [Eververse](https://www.eververse.ai/)
+- [Superthread](https://www.superthread.com)
 - [Joggr](https://joggr.io)

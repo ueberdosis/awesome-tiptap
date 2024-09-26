@@ -64,6 +64,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Markdown / HTML Content Block by Halo - Insert HTML and Markdown blocks into the editor](https://github.com/halo-sigs/plugin-hybrid-edit-block)
 - [KaTeX Block by Halo - Provides KaTeX support](https://github.com/halo-sigs/plugin-katex)
 - [Text Diagram by Halo - Provides support for text drawing (Mermaid & PlantUML)](https://github.com/halo-sigs/plugin-text-diagram)
+- [Maily](https://maily.to/) by [@arikchakma](https://github.com/arikchakma)
 
 ## Who’s using Tiptap?
 - [Gamma](https://gamma.app/#recent)

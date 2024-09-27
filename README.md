@@ -21,6 +21,8 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [tiptap-extension-jira](https://github.com/haydenbleasel/tiptap-extension-jira) by [@haydenbleasel](https://github.com/haydenbleasel)
 - [tiptap-slash-command](https://github.com/harshtalks/tiptap-plugins/tree/main/packages/tiptap-slash) by [@harshtalks](https://github.com/harshtalks)
 - [tiptap-image-resize-and-alignment](https://github.com/harshtalks/tiptap-plugins/tree/main/packages/tiptap-image) by [@harshtalks](https://github.com/harshtalks)
+- [tiptap-extension-iframely](https://github.com/haydenbleasel/tiptap-extension-iframely) by [@haydenbleasel](https://github.com/haydenbleasel)
+- [tiptap-extension-global-drag-handle](https://github.com/NiclasDev63/tiptap-extension-global-drag-handle) by [@NiclasDev63](https://github.com/NiclasDev63)
 
 ## Demos
 - [tiptap-markdown-demo](https://github.com/justinmoon/tiptap-markdown-demo) by [@justinmoon](https://github.com/justinmoon)
@@ -30,6 +32,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [tiptap-custom-link-vue-router](https://github.com/worldpwn/tiptap-custom-link-vue-router) by [@worldpwn](https://github.com/worldpwn)
 - [vuetify-pro-tiptap](https://github.com/yikoyu/vuetify-pro-tiptap) by [@yikoyu](https://github.com/yikoyu)
 - [umo-editor](https://github.com/umodoc/editor) by [@umodoc](https://github.com/umodoc)
+- [fylepad](https://github.com/imrofayel/fylepad) by [@imrofayel](https://github.com/imrofayel/)
 
 ## Angular
 - [ngx-tiptap](https://github.com/sibiraj-s/ngx-tiptap) by [@sibiraj-s](https://github.com/sibiraj-s)
@@ -66,6 +69,8 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Markdown / HTML Content Block by Halo - Insert HTML and Markdown blocks into the editor](https://github.com/halo-sigs/plugin-hybrid-edit-block)
 - [KaTeX Block by Halo - Provides KaTeX support](https://github.com/halo-sigs/plugin-katex)
 - [Text Diagram by Halo - Provides support for text drawing (Mermaid & PlantUML)](https://github.com/halo-sigs/plugin-text-diagram)
+- [fylepad - a notepad with powerful rich-text editing based on Nuxt3 and Tiptap.](https://github.com/imrofayel/fylepad) by [@imrofayel](https://github.com/imrofayel/)
+- [Maily](https://maily.to/) by [@arikchakma](https://github.com/arikchakma)
 
 ## Who’s using Tiptap?
 - [Gamma](https://gamma.app/#recent)
@@ -79,3 +84,5 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Vizy](https://verbb.io/craft-plugins/vizy/features)
 - [Friday](https://friday.app)
 - [Eververse](https://www.eververse.ai/)
+- [Superthread](https://www.superthread.com)
+- [Joggr](https://joggr.io)

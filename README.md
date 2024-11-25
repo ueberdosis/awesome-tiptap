@@ -27,6 +27,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [tiptap-markdown-demo](https://github.com/justinmoon/tiptap-markdown-demo) by [@justinmoon](https://github.com/justinmoon)
 - [umo-editor-playground](https://demo.umodoc.com/editor?lang=en-US&theme=light) by [@umodoc](https://github.com/umodoc)
 - [google-docs-comments](https://documentation-app-demo.vercel.app) by [@velt-js](https://github.com/velt-js)
+- [tailwind-css-wysiwyg-editor](https://flowbite.com/docs/plugins/wysiwyg/) by [@zoltanszogyenyi](https://github.com/zoltanszogyenyi)
 
 ## Vue.js
 - [tiptap-custom-link-vue-router](https://github.com/worldpwn/tiptap-custom-link-vue-router) by [@worldpwn](https://github.com/worldpwn)
@@ -87,3 +88,4 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Superthread](https://www.superthread.com)
 - [Joggr](https://joggr.io)
 - [Velt](https://velt.dev)
+- [Flowbite](https://flowbite.com)

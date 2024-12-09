@@ -63,6 +63,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [linked - journal app](https://github.com/lostdesign/linked) by [@lostdesign](https://github.com/lostdesign)
 - [Nextcloud Text - collaborative document editing using Markdown](https://github.com/nextcloud/text) by [@nextcloud](https://github.com/nextcloud)
 - [Notebag note-taking app](https://github.com/pretzelhands/notebag) by [@pretzelhands](https://github.com/pretzelhands)
+- [OpenSlides - A digital motion and assembly system](https://github.com/OpenSlides/OpenSlides)
 - [PlaceNoter - Chrome Extension, that replaces chrome's new tab with note-taking app.](https://github.com/sereneinserenade/placenoter/) by [@sereneinserenade](https://github.com/sereneinserenade)
 - [think - A collabrative web app build on tiptap, support markdown](https://github.com/fantasticit/think) by [@fantasticit](https://github.com/fantasticit)
 - [mui-tiptap - A Material UI (MUI) styled WYSIWYG rich text editor, using Tiptap](https://github.com/sjdemartini/mui-tiptap) by [@sjdemartini](https://github.com/sjdemartini)

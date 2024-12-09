@@ -15,6 +15,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [tiptap-text-direction](https://github.com/amirhhashemi/tiptap-text-direction) by [@amirhhashemi](https://github.com/amirhhashemi)
 - [tiptap-comments](https://www.npmjs.com/package/@rcode-link/tiptap-comments) by [@radans](https://github.com/radans)
 - [tiptap-drawio-extension](https://github.com/radans/tiptap-drawio-extension) by [@radans](https://github.com/radans)
+- [tiptap-extension-office-paste](https://github.com/Intevation/tiptap-extension-office-paste) by [@Intevation](https://github.com/Intevation)
 - [tiptap-extension-upload-image](https://github.com/carlosvaldesweb/tiptap-extension-upload-image) by [@carlosvaldesweb](https://github.com/carlosvaldesweb)
 - [tiptap-footnotes](https://github.com/buttondown/tiptap-footnotes) by [@buttondown](https://github.com/buttondown)
 - [tiptap-extension-figma](https://github.com/haydenbleasel/tiptap-extension-figma) by [@haydenbleasel](https://github.com/haydenbleasel)

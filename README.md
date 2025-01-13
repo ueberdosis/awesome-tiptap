@@ -24,12 +24,15 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [tiptap-extension-iframely](https://github.com/haydenbleasel/tiptap-extension-iframely) by [@haydenbleasel](https://github.com/haydenbleasel)
 - [tiptap-extension-global-drag-handle](https://github.com/NiclasDev63/tiptap-extension-global-drag-handle) by [@NiclasDev63](https://github.com/NiclasDev63)
 - [tiptap-velt-comments](https://www.npmjs.com/package/@veltdev/tiptap-velt-comments) by [@velt-js](https://github.com/velt-js)
+- [tiptap-extension-code-block-shiki](https://github.com/aolyang/tiptap-contentful/tree/main/packages/tiptap-extension-code-block-shiki) by [@aolyang](https://github.com/aolyang)
 
 ## Demos
 - [tiptap-markdown-demo](https://github.com/justinmoon/tiptap-markdown-demo) by [@justinmoon](https://github.com/justinmoon)
 - [umo-editor-playground](https://demo.umodoc.com/editor?lang=en-US&theme=light) by [@umodoc](https://github.com/umodoc)
 - [google-docs-comments](https://documentation-app-demo.vercel.app) by [@velt-js](https://github.com/velt-js)
 - [tailwind-css-wysiwyg-editor](https://flowbite.com/docs/plugins/wysiwyg/) by [@zoltanszogyenyi](https://github.com/zoltanszogyenyi)
+- [tiptap-contentful svelte + tailwind](https://github.com/aolyang/tiptap-contentful) by [@aolyang](https://github.com/aolyang)
+- [emojis pickers](https://github.com/aolyang/tiptap-contentful/blob/main/example/src/components/toolbars/SelectEmojis.svelte) by [@aolyang](https://github.com/aolyang)
 
 ## Vue.js
 - [tiptap-custom-link-vue-router](https://github.com/worldpwn/tiptap-custom-link-vue-router) by [@worldpwn](https://github.com/worldpwn)
@@ -42,6 +45,8 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 
 ## Svelte
 - [svelte-tiptap](https://github.com/sibiraj-s/svelte-tiptap) by [@sibiraj-s](https://github.com/sibiraj-s)
+- [tiptap-contentful svelte + tailwind](https://github.com/aolyang/tiptap-contentful) by [@aolyang](https://github.com/aolyang)
+- [emojis pickers](https://github.com/aolyang/tiptap-contentful/blob/main/example/src/components/toolbars/SelectEmojis.svelte) by [@aolyang](https://github.com/aolyang)
 
 ## PHP
 - [Tiptap for PHP](https://github.com/ueberdosis/tiptap-php) by [@ueberdosis](https://github.com/ueberdosis) (official)

@@ -26,6 +26,8 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [tiptap-extension-global-drag-handle](https://github.com/NiclasDev63/tiptap-extension-global-drag-handle) by [@NiclasDev63](https://github.com/NiclasDev63)
 - [tiptap-velt-comments](https://www.npmjs.com/package/@veltdev/tiptap-velt-comments) by [@velt-js](https://github.com/velt-js)
 - [tiptap-extension-code-block-shiki](https://github.com/aolyang/tiptap-contentful/tree/main/packages/tiptap-extension-code-block-shiki) by [@aolyang](https://github.com/aolyang)
+- [tiptap-extension-figure](https://www.npmjs.com/package/@pentestpad/tiptap-extension-figure) by [@PentestPad](https://github.com/PentestPad) ([@Petar-CV](https://github.com/Petar-CV))
+
 
 ## Demos
 - [tiptap-markdown-demo](https://github.com/justinmoon/tiptap-markdown-demo) by [@justinmoon](https://github.com/justinmoon)
@@ -98,3 +100,5 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Joggr](https://joggr.io)
 - [Velt](https://velt.dev)
 - [Flowbite](https://flowbite.com)
+- [PentestPad](https://pentestpad.com)
+

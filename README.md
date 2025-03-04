@@ -26,6 +26,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [tiptap-extension-global-drag-handle](https://github.com/NiclasDev63/tiptap-extension-global-drag-handle) by [@NiclasDev63](https://github.com/NiclasDev63)
 - [tiptap-velt-comments](https://www.npmjs.com/package/@veltdev/tiptap-velt-comments) by [@velt-js](https://github.com/velt-js)
 - [tiptap-extension-code-block-shiki](https://github.com/aolyang/tiptap-contentful/tree/main/packages/tiptap-extension-code-block-shiki) by [@aolyang](https://github.com/aolyang)
+- [tiptap-extension-comment-collaboration](https://github.com/b310-digital/tiptap-extension-comment-collaboration) by [@b310-digital](https://github.com/b310-digital)
 - [tiptap-extension-figure](https://www.npmjs.com/package/@pentestpad/tiptap-extension-figure) by [@PentestPad](https://github.com/PentestPad) ([@Petar-CV](https://github.com/Petar-CV))
 - [tiptap-extension-pagination](https://github.com/hugs7/tiptap-extension-pagination) by [@hugs7](https://github.com/hugs7)
 
@@ -84,6 +85,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [fylepad - a notepad with powerful rich-text editing based on Nuxt3 and Tiptap.](https://github.com/imrofayel/fylepad) by [@imrofayel](https://github.com/imrofayel/)
 - [Maily](https://maily.to/) by [@arikchakma](https://github.com/arikchakma)
 - [Tiptap editor template](https://github.com/phyohtetarkar/tiptap-block-editor) by [@phyohtetarkar](https://github.com/phyohtetarkar)
+- [GroupWriter - Collaborative Writing App](https://github.com/b310-digital/groupwriter-frontend) by [@b310-digital](https://github.com/b310-digital)
 
 ## Who’s using Tiptap?
 - [Gamma](https://gamma.app/#recent)

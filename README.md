@@ -78,6 +78,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [umo-editor - open-source document editor based on Vue3 and Tiptap](https://github.com/umodoc/editor) by [@umodoc](https://github.com/umodoc)
 - [Halo - Powerful and easy-to-use open source website building tool.](https://github.com/halo-dev/halo)
 - [Hyperlink Card by Halo - Convert normal hyperlinks to cards](https://github.com/halo-sigs/plugin-editor-hyperlink-card)
+- [Hyprnote - AI Notepad for Meetings](https://github.com/fastrepl/hyprnote)
 - [Markdown / HTML Content Block by Halo - Insert HTML and Markdown blocks into the editor](https://github.com/halo-sigs/plugin-hybrid-edit-block)
 - [KaTeX Block by Halo - Provides KaTeX support](https://github.com/halo-sigs/plugin-katex)
 - [Text Diagram by Halo - Provides support for text drawing (Mermaid & PlantUML)](https://github.com/halo-sigs/plugin-text-diagram)

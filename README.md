@@ -104,4 +104,5 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Flowbite](https://flowbite.com)
 - [PentestPad](https://pentestpad.com)
 - [TaleForge](https://www.tale-forge.com/) - Free creative writing platform with book, manga, and screenplay editors. Next.js, Prisma, Stripe.
+- [TaleForge](https://www.tale-forge.com/) - Free creative writing platform with book, manga, and screenplay editors.
 

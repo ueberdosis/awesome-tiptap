@@ -28,6 +28,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [tiptap-extension-code-block-shiki](https://github.com/aolyang/tiptap-contentful/tree/main/packages/tiptap-extension-code-block-shiki) by [@aolyang](https://github.com/aolyang)
 - [tiptap-extension-figure](https://www.npmjs.com/package/@pentestpad/tiptap-extension-figure) by [@PentestPad](https://github.com/PentestPad) ([@Petar-CV](https://github.com/Petar-CV))
 - [tiptap-extension-pagination](https://github.com/hugs7/tiptap-extension-pagination) by [@hugs7](https://github.com/hugs7)
+- [tiptap-extension-multi-column](https://github.com/GYHHAHA/prosemirror-columns) by [@GYHHAHA](https://github.com/GYHHAHA)
 - [@tiptap-codeless/extension-drag-handle](https://www.npmjs.com/package/@tiptap-codeless/extension-drag-handle) by [@namelesserlx](https://github.com/namelesserlx)
 - [@tiptap-codeless/extension-file-upload](https://www.npmjs.com/package/@tiptap-codeless/extension-file-upload) by [@namelesserlx](https://github.com/namelesserlx)
 - [@tiptap-codeless/extension-code-block-pro](https://www.npmjs.com/package/@tiptap-codeless/extension-code-block-pro) by [@namelesserlx](https://github.com/namelesserlx)

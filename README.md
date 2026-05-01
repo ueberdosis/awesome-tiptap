@@ -109,5 +109,8 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Velt](https://velt.dev)
 - [Flowbite](https://flowbite.com)
 - [PentestPad](https://pentestpad.com)
+<<<<<<< HEAD
 - [Fynk] (https://fynk.com)
+=======
+>>>>>>> ca7ebef (docs: add Utopia Map to awesome-tiptap list)
 - [TaleForge](https://www.tale-forge.com/)

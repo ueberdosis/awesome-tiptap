@@ -89,9 +89,10 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [fylepad - a notepad with powerful rich-text editing based on Nuxt3 and Tiptap.](https://github.com/imrofayel/fylepad) by [@imrofayel](https://github.com/imrofayel/)
 - [Maily](https://maily.to/) by [@arikchakma](https://github.com/arikchakma)
 - [Tiptap editor template](https://github.com/phyohtetarkar/tiptap-block-editor) by [@phyohtetarkar](https://github.com/phyohtetarkar)
+- [Idea Forge - Notion-like collaborative document platform with AI capabilities](https://github.com/chenxiaoyao6228/idea-forge) by [@chenxiaoyao6228](https://github.com/chenxiaoyao6228)
 - [Yiitap - AI powered, Notion-style WYSIWYG rich-text editor](https://github.com/pileax-ai/yiitap) by [@pileax-ai](https://github.com/pileax-ai)
 
-## Who’s using Tiptap?
+## Who's using Tiptap?
 - [Gamma](https://gamma.app/#recent)
 - [mymind](https://mymind.com)
 - [DocIQ](https://www.dociq.io)

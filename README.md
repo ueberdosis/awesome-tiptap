@@ -66,6 +66,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Migration from tiptap v.1 to tiptap v.2](https://dev.to/worldpwn/migration-from-tiptap-v1-to-tiptap-v2-1lh3)
 
 ## Open source projects using Tiptap
+- [Bible School LMS](https://github.com/ArVaViT/biblie-school) - Open-source LMS for Bible schools by [@ArVaViT](https://github.com/ArVaViT)
 - [GitLab’s editor](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/assets/javascripts/content_editor)
 - [linked - journal app](https://github.com/lostdesign/linked) by [@lostdesign](https://github.com/lostdesign)
 - [Nextcloud Text - collaborative document editing using Markdown](https://github.com/nextcloud/text) by [@nextcloud](https://github.com/nextcloud)

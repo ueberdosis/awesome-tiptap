@@ -29,6 +29,10 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [tiptap-extension-comment-collaboration](https://github.com/b310-digital/tiptap-extension-comment-collaboration) by [@b310-digital](https://github.com/b310-digital)
 - [tiptap-extension-figure](https://www.npmjs.com/package/@pentestpad/tiptap-extension-figure) by [@PentestPad](https://github.com/PentestPad) ([@Petar-CV](https://github.com/Petar-CV))
 - [tiptap-extension-pagination](https://github.com/hugs7/tiptap-extension-pagination) by [@hugs7](https://github.com/hugs7)
+- [tiptap-extension-multi-column](https://github.com/GYHHAHA/prosemirror-columns) by [@GYHHAHA](https://github.com/GYHHAHA)
+- [@tiptap-codeless/extension-drag-handle](https://www.npmjs.com/package/@tiptap-codeless/extension-drag-handle) by [@namelesserlx](https://github.com/namelesserlx)
+- [@tiptap-codeless/extension-file-upload](https://www.npmjs.com/package/@tiptap-codeless/extension-file-upload) by [@namelesserlx](https://github.com/namelesserlx)
+- [@tiptap-codeless/extension-code-block-pro](https://www.npmjs.com/package/@tiptap-codeless/extension-code-block-pro) by [@namelesserlx](https://github.com/namelesserlx)
 
 ## Demos
 - [tiptap-markdown-demo](https://github.com/justinmoon/tiptap-markdown-demo) by [@justinmoon](https://github.com/justinmoon)
@@ -67,6 +71,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Migration from tiptap v.1 to tiptap v.2](https://dev.to/worldpwn/migration-from-tiptap-v1-to-tiptap-v2-1lh3)
 
 ## Open source projects using Tiptap
+- [Bible School LMS](https://github.com/ArVaViT/biblie-school) - Open-source LMS for Bible schools by [@ArVaViT](https://github.com/ArVaViT)
 - [GitLab’s editor](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/assets/javascripts/content_editor)
 - [linked - journal app](https://github.com/lostdesign/linked) by [@lostdesign](https://github.com/lostdesign)
 - [Nextcloud Text - collaborative document editing using Markdown](https://github.com/nextcloud/text) by [@nextcloud](https://github.com/nextcloud)
@@ -79,6 +84,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [umo-editor - open-source document editor based on Vue3 and Tiptap](https://github.com/umodoc/editor) by [@umodoc](https://github.com/umodoc)
 - [Halo - Powerful and easy-to-use open source website building tool.](https://github.com/halo-dev/halo)
 - [Hyperlink Card by Halo - Convert normal hyperlinks to cards](https://github.com/halo-sigs/plugin-editor-hyperlink-card)
+- [Hyprnote - AI Notepad for Meetings](https://github.com/fastrepl/hyprnote)
 - [Markdown / HTML Content Block by Halo - Insert HTML and Markdown blocks into the editor](https://github.com/halo-sigs/plugin-hybrid-edit-block)
 - [KaTeX Block by Halo - Provides KaTeX support](https://github.com/halo-sigs/plugin-katex)
 - [Text Diagram by Halo - Provides support for text drawing (Mermaid & PlantUML)](https://github.com/halo-sigs/plugin-text-diagram)
@@ -86,8 +92,13 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Maily](https://maily.to/) by [@arikchakma](https://github.com/arikchakma)
 - [Tiptap editor template](https://github.com/phyohtetarkar/tiptap-block-editor) by [@phyohtetarkar](https://github.com/phyohtetarkar)
 - [GroupWriter - Collaborative Writing App](https://github.com/b310-digital/groupwriter-frontend) by [@b310-digital](https://github.com/b310-digital)
+- [Gramax - Publish Git-driven documentation sites](https://github.com/Gram-ax/gramax)
+- [Maho ecommerce platform](https://github.com/MahoCommerce/maho)
+- [Idea Forge - Notion-like collaborative document platform with AI capabilities](https://github.com/chenxiaoyao6228/idea-forge) by [@chenxiaoyao6228](https://github.com/chenxiaoyao6228)
+- [Yiitap - AI powered, Notion-style WYSIWYG rich-text editor](https://github.com/pileax-ai/yiitap) by [@pileax-ai](https://github.com/pileax-ai)
+- [Utopia Map - Collaborative map-based app for real-life networking and decentralized coordination](https://github.com/utopia-os/utopia-map)
 
-## Who’s using Tiptap?
+## Who's using Tiptap?
 - [Gamma](https://gamma.app/#recent)
 - [mymind](https://mymind.com)
 - [DocIQ](https://www.dociq.io)
@@ -104,4 +115,5 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Velt](https://velt.dev)
 - [Flowbite](https://flowbite.com)
 - [PentestPad](https://pentestpad.com)
-
+- [Fynk] (https://fynk.com)
+- [TaleForge](https://www.tale-forge.com/)

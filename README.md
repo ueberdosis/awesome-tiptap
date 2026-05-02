@@ -86,28 +86,28 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Bible School LMS](https://github.com/ArVaViT/biblie-school) - Open-source LMS for Bible schools by [@ArVaViT](https://github.com/ArVaViT)
 - [fylepad](https://github.com/imrofayel/fylepad) - Notepad with rich text editing based on Nuxt 3 and Tiptap by [@imrofayel](https://github.com/imrofayel/)
 - [GitLab’s editor](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/assets/javascripts/content_editor)
-- [Gramax](https://github.com/Gram-ax/gramax) - Git-driven documentation sites
+- [Gramax](https://github.com/Gram-ax/gramax) - Git-driven documentation sites by [@Gram-ax](https://github.com/Gram-ax)
 - [GroupWriter](https://github.com/b310-digital/groupwriter-frontend) - Collaborative writing app by [@b310-digital](https://github.com/b310-digital)
-- [Halo](https://github.com/halo-dev/halo) - Open-source website builder
-- [Hyperlink Card by Halo](https://github.com/halo-sigs/plugin-editor-hyperlink-card) - Converts hyperlinks to cards
-- [Hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings
+- [Halo](https://github.com/halo-dev/halo) - Open-source website builder by [@halo-dev](https://github.com/halo-dev)
+- [Hyperlink Card by Halo](https://github.com/halo-sigs/plugin-editor-hyperlink-card) - Converts hyperlinks to cards by [@halo-sigs](https://github.com/halo-sigs)
+- [Hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings by [@fastrepl](https://github.com/fastrepl)
 - [Idea Forge](https://github.com/chenxiaoyao6228/idea-forge) - Notion-like collaborative document platform with AI capabilities by [@chenxiaoyao6228](https://github.com/chenxiaoyao6228)
-- [KaTeX Block by Halo](https://github.com/halo-sigs/plugin-katex) - Adds KaTeX support
+- [KaTeX Block by Halo](https://github.com/halo-sigs/plugin-katex) - Adds KaTeX support by [@halo-sigs](https://github.com/halo-sigs)
 - [linked](https://github.com/lostdesign/linked) - Journal app by [@lostdesign](https://github.com/lostdesign)
-- [Maho](https://github.com/MahoCommerce/maho) - Ecommerce platform
+- [Maho](https://github.com/MahoCommerce/maho) - Ecommerce platform by [@MahoCommerce](https://github.com/MahoCommerce)
 - [Maily](https://maily.to/) by [@arikchakma](https://github.com/arikchakma)
-- [Markdown / HTML Content Block by Halo](https://github.com/halo-sigs/plugin-hybrid-edit-block) - Inserts HTML and Markdown blocks into the editor
+- [Markdown / HTML Content Block by Halo](https://github.com/halo-sigs/plugin-hybrid-edit-block) - Inserts HTML and Markdown blocks into the editor by [@halo-sigs](https://github.com/halo-sigs)
 - [mui-tiptap](https://github.com/sjdemartini/mui-tiptap) - Material UI styled WYSIWYG rich text editor using Tiptap by [@sjdemartini](https://github.com/sjdemartini)
 - [Nextcloud Text](https://github.com/nextcloud/text) - Collaborative document editing using Markdown by [@nextcloud](https://github.com/nextcloud)
 - [Notebag](https://github.com/pretzelhands/notebag) - Note-taking app by [@pretzelhands](https://github.com/pretzelhands)
 - [Novel](https://novel.sh/) by [@steventey](https://github.com/steven-tey)
-- [OpenSlides](https://github.com/OpenSlides/OpenSlides) - Digital motion and assembly system
+- [OpenSlides](https://github.com/OpenSlides/OpenSlides) - Digital motion and assembly system by [@OpenSlides](https://github.com/OpenSlides)
 - [PlaceNoter](https://github.com/sereneinserenade/placenoter/) - Chrome extension that replaces the new tab with a note-taking app by [@sereneinserenade](https://github.com/sereneinserenade)
-- [Text Diagram by Halo](https://github.com/halo-sigs/plugin-text-diagram) - Adds Mermaid and PlantUML diagram support
+- [Text Diagram by Halo](https://github.com/halo-sigs/plugin-text-diagram) - Adds Mermaid and PlantUML diagram support by [@halo-sigs](https://github.com/halo-sigs)
 - [think](https://github.com/fantasticit/think) - Collaborative web app built on Tiptap with Markdown support by [@fantasticit](https://github.com/fantasticit)
 - [Tiptap editor template](https://github.com/phyohtetarkar/tiptap-block-editor) by [@phyohtetarkar](https://github.com/phyohtetarkar)
 - [umo-editor](https://github.com/umodoc/editor) - Open-source document editor based on Vue 3 and Tiptap by [@umodoc](https://github.com/umodoc)
-- [Utopia Map](https://github.com/utopia-os/utopia-map) - Collaborative map-based app for networking and coordination
+- [Utopia Map](https://github.com/utopia-os/utopia-map) - Collaborative map-based app for networking and coordination by [@utopia-os](https://github.com/utopia-os)
 - [Yiitap](https://github.com/pileax-ai/yiitap) - AI-powered, Notion-style WYSIWYG rich text editor by [@pileax-ai](https://github.com/pileax-ai)
 
 ## Who’s using Tiptap?

@@ -29,6 +29,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [tiptap-footnotes](https://github.com/buttondown/tiptap-footnotes) by [@buttondown](https://github.com/buttondown)
 - [tiptap-image-resize-and-alignment](https://github.com/harshtalks/tiptap-plugins/tree/main/packages/image-tiptap) by [@harshtalks](https://github.com/harshtalks)
 - [tiptap-languagetool](https://github.com/sereneinserenade/tiptap-languagetool) by [@sereneinserenade](https://github.com/sereneinserenade)
+- [tiptap-markdown](https://github.com/aguingand/tiptap-markdown) by [@aguingand](https://github.com/aguingand)
 - [tiptap-media-resize](https://github.com/sereneinserenade/tiptap-media-resize) by [@sereneinserenade](https://github.com/sereneinserenade)
 - [tiptap-search-and-replace](https://github.com/sereneinserenade/tiptap-search-n-replace-demo) by [@sereneinserenade](https://github.com/sereneinserenade)
 - [tiptap-slash-command](https://github.com/harshtalks/tiptap-plugins/tree/main/packages/slash-tiptap) by [@harshtalks](https://github.com/harshtalks)
@@ -46,9 +47,21 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [tiptap-multiple-choice-question-extension](https://github.com/Jianganchen/tiptap-extension-mcq) by [@Philip](https://github.com/Jianganchen)
 - [umo-editor-playground](https://demo.umodoc.com/editor?lang=en-US&theme=light) by [@umodoc](https://github.com/umodoc)
 
+## React
+
+- [BlockNote](https://github.com/TypeCellOS/BlockNote) - Block-based React rich text editor built on ProseMirror and Tiptap by [@TypeCellOS](https://github.com/TypeCellOS)
+- [Mantine Tiptap](https://github.com/mantinedev/mantine/tree/master/packages/%40mantine/tiptap) - Tiptap-based rich text editor component for Mantine by [@mantinedev](https://github.com/mantinedev)
+- [minimal-tiptap](https://github.com/Aslam97/minimal-tiptap) by [@Aslam97](https://github.com/Aslam97)
+- [mui-tiptap](https://github.com/sjdemartini/mui-tiptap) - Material UI-styled WYSIWYG rich text editor by [@sjdemartini](https://github.com/sjdemartini)
+- [Novel](https://novel.sh/) by [@steven-tey](https://github.com/steven-tey)
+- [reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor) - WYSIWYG rich text editor based on Tiptap and shadcn/ui by [@hunghg255](https://github.com/hunghg255)
+- [shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) by [@NiazMorshed2007](https://github.com/NiazMorshed2007)
+
 ## Vue.js
 
 - [fylepad](https://github.com/imrofayel/fylepad) by [@imrofayel](https://github.com/imrofayel/)
+- [nuxt-tiptap-editor](https://github.com/modbender/nuxt-tiptap-editor) by [@modbender](https://github.com/modbender)
+- [tiptap-vuetify](https://github.com/777genius/tiptap-vuetify) by [@777genius](https://github.com/777genius)
 - [tiptap-custom-link-vue-router](https://github.com/worldpwn/tiptap-custom-link-vue-router) by [@worldpwn](https://github.com/worldpwn)
 - [umo-editor](https://github.com/umodoc/editor) by [@umodoc](https://github.com/umodoc)
 - [vuetify-pro-tiptap](https://github.com/yikoyu/vuetify-pro-tiptap) by [@yikoyu](https://github.com/yikoyu)
@@ -65,6 +78,8 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 
 ## PHP
 
+- [Filament Tiptap Editor](https://github.com/awcodes/filament-tiptap-editor) by [@awcodes](https://github.com/awcodes)
+- [laravel-tiptap](https://github.com/georgeboot/laravel-tiptap) by [@georgeboot](https://github.com/georgeboot)
 - [Laravel Nova Tiptap Editor Field](https://github.com/manogi/nova-tiptap) by [@manogi](https://github.com/manogi)
 - [Tiptap for PHP](https://github.com/ueberdosis/tiptap-php) by [@ueberdosis](https://github.com/ueberdosis) (official)
 
@@ -85,7 +100,6 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 
 - [Activepieces](https://github.com/activepieces/activepieces) - Open-source AI automation platform by [@activepieces](https://github.com/activepieces)
 - [Bible School LMS](https://github.com/ArVaViT/biblie-school) - Open-source LMS for Bible schools by [@ArVaViT](https://github.com/ArVaViT)
-- [BlockNote](https://github.com/TypeCellOS/BlockNote) - Block-based React rich text editor built on ProseMirror and Tiptap by [@TypeCellOS](https://github.com/TypeCellOS)
 - [Docmost](https://github.com/docmost/docmost) - Open-source collaborative wiki and documentation software by [@docmost](https://github.com/docmost)
 - [Doist Typist](https://github.com/Doist/typist) - Tiptap-based rich text editor powering Doist products by [@Doist](https://github.com/Doist)
 - [Dub](https://github.com/dubinc/dub) - Open-source link management platform by [@dubinc](https://github.com/dubinc)
@@ -103,14 +117,13 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Maho](https://github.com/MahoCommerce/maho) - E-commerce platform by [@MahoCommerce](https://github.com/MahoCommerce)
 - [Maily](https://maily.to/) by [@arikchakma](https://github.com/arikchakma)
 - [Markdown / HTML Content Block by Halo](https://github.com/halo-sigs/plugin-hybrid-edit-block) - Inserts HTML and Markdown blocks into the editor by [@halo-sigs](https://github.com/halo-sigs)
-- [mui-tiptap](https://github.com/sjdemartini/mui-tiptap) - Material UI-styled WYSIWYG rich text editor by [@sjdemartini](https://github.com/sjdemartini)
 - [Nextcloud Text](https://github.com/nextcloud/text) - Collaborative document editing using Markdown by [@nextcloud](https://github.com/nextcloud)
 - [Notebag](https://github.com/pretzelhands/notebag) - Note-taking app by [@pretzelhands](https://github.com/pretzelhands)
 - [Notra](https://github.com/Levix0501/notra) - Open-source knowledge management system built with Next.js and Tiptap by [@Levix0501](https://github.com/Levix0501)
-- [Novel](https://novel.sh/) by [@steven-tey](https://github.com/steven-tey)
 - [OpenSlides](https://github.com/OpenSlides/OpenSlides) - Digital motion and assembly system by [@OpenSlides](https://github.com/OpenSlides)
 - [PlaceNoter](https://github.com/sereneinserenade/placenoter/) - Chrome extension that replaces the new tab with a note-taking app by [@sereneinserenade](https://github.com/sereneinserenade)
 - [Plane](https://github.com/makeplane/plane) - Open-source project management platform by [@makeplane](https://github.com/makeplane)
+- [strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor) - Tiptap editor plugin for Strapi by [@dasmikko](https://github.com/dasmikko)
 - [Text Diagram by Halo](https://github.com/halo-sigs/plugin-text-diagram) - Adds Mermaid and PlantUML diagram support by [@halo-sigs](https://github.com/halo-sigs)
 - [think](https://github.com/fantasticit/think) - Collaborative web app with Markdown support by [@fantasticit](https://github.com/fantasticit)
 - [Tiptap editor template](https://github.com/phyohtetarkar/tiptap-block-editor) by [@phyohtetarkar](https://github.com/phyohtetarkar)

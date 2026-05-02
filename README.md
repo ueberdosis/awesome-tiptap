@@ -95,9 +95,12 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 ## Articles
 
 - [Creating a custom extension for Rich Text Editor using TipTap](https://www.websight.io/blog/2023/creating-a-custom-extension-for-rich-text-editor-using-tiptap.html)
+- [How to Turn Filament v5's Rich Editor Into a Full Block Editor](https://tallcms.com/blog/extend-filament-v5-rich-editor-block-editor)
 - [Migration from Tiptap v1 to Tiptap v2](https://dev.to/worldpwn/migration-from-tiptap-v1-to-tiptap-v2-1lh3)
 - [Switching Rich Text Editors, Part 1: Picking Tiptap](https://www.ashbyhq.com/blog/engineering/tiptap-part-1)
 - [Top 5 rich-text React components](https://www.sanity.io/guides/top-5-rich-text-react-components)
+- [Which rich text editor framework should you choose in 2025?](https://liveblocks.io/blog/which-rich-text-editor-framework-should-you-choose-in-2025)
+- [Why Filament's new TipTap editor leaves Trix (and Nova) behind](https://www.artisancraft.dev/why-filaments-new-tiptap-editor-leaves-trix-and-nova-behind/)
 
 ## Open source projects using Tiptap
 

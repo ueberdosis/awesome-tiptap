@@ -154,6 +154,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Clueso](https://www.clueso.io)
 - [DocIQ](https://www.dociq.io)
 - [Eververse](https://www.eververse.ai/)
+- [Falconer](https://falconer.com)
 - [Flowbite](https://flowbite.com)
 - [Friday](https://friday.app)
 - [Fynk](https://fynk.com)

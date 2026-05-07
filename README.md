@@ -95,6 +95,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 ## Articles
 
 - [Creating a custom extension for Rich Text Editor using TipTap](https://www.websight.io/blog/2023/creating-a-custom-extension-for-rich-text-editor-using-tiptap.html)
+- [The Editor Is the Product — Research](https://flexum.io/editor-is-the-product-research)
 - [How to Turn Filament v5's Rich Editor Into a Full Block Editor](https://tallcms.com/blog/extend-filament-v5-rich-editor-block-editor)
 - [Migration from Tiptap v1 to Tiptap v2](https://dev.to/worldpwn/migration-from-tiptap-v1-to-tiptap-v2-1lh3)
 - [Switching Rich Text Editors, Part 1: Picking Tiptap](https://www.ashbyhq.com/blog/engineering/tiptap-part-1)

@@ -36,6 +36,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [tiptap-snippets-extension](https://github.com/sereneinserenade/tiptap-snippets-extension) by [@sereneinserenade](https://github.com/sereneinserenade)
 - [tiptap-text-direction](https://github.com/amirhhashemi/tiptap-text-direction) by [@amirhhashemi](https://github.com/amirhhashemi)
 - [tiptap-velt-comments](https://www.npmjs.com/package/@veltdev/tiptap-velt-comments) by [@velt-js](https://github.com/velt-js)
+- [tiptap-wproofreader](https://www.npmjs.com/package/@webspellchecker/wproofreader-tiptap) by [@WebSpellChecker](https://github.com/WebSpellChecker)
 
 ## Demos
 

@@ -46,6 +46,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [tiptap-markdown-demo](https://github.com/justinmoon/tiptap-markdown-demo) by [@justinmoon](https://github.com/justinmoon)
 - [tiptap-multiple-choice-question-extension](https://github.com/Jianganchen/tiptap-extension-mcq) by [@Philip](https://github.com/Jianganchen)
 - [umo-editor-playground](https://demo.umodoc.com/editor?lang=en-US&theme=light) by [@umodoc](https://github.com/umodoc)
+- [tiptap-engine-flutter-app](https://github.com/blackcoffee2/tiptap-engine-flutter-app) by [@blackcoffee2](https://github.com/blackcoffee2)
 
 ## React
 

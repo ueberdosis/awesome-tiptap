@@ -90,6 +90,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 
 - [django-tiptap](https://github.com/django-tiptap/django_tiptap) by [@solen0id](https://github.com/solen0id) and [@sereneinserenade](https://github.com/sereneinserenade)
 - [Python library that converts Tiptap JSON](https://github.com/stckme/tiptapy) by [@stckme](https://github.com/stckme)
+- [tiptap-python-utils](https://github.com/tugkanpilka/tiptap-python-utils) — Pure-Python utilities for processing TipTap JSON server-side by [@tugkanpilka](https://github.com/tugkanpilka)
 
 ## Collaborative editing
 

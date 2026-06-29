@@ -50,6 +50,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [tiptap-multiple-choice-question-extension](https://github.com/Jianganchen/tiptap-extension-mcq) by [@Philip](https://github.com/Jianganchen)
 - [umo-editor-playground](https://demo.umodoc.com/editor?lang=en-US&theme=light) by [@umodoc](https://github.com/umodoc)
 - [tiptap-engine-flutter-app](https://github.com/blackcoffee2/tiptap-engine-flutter-app) by [@blackcoffee2](https://github.com/blackcoffee2)
+- [tiptap-golemui-forms](https://github.com/golemui/demos/tree/main/tiptap) by [@golemui](https://github.com/golemui)
 
 ## React
 
@@ -107,6 +108,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Top 5 rich-text React components](https://www.sanity.io/guides/top-5-rich-text-react-components)
 - [Which rich text editor framework should you choose in 2025?](https://liveblocks.io/blog/which-rich-text-editor-framework-should-you-choose-in-2025)
 - [Why Filament's new TipTap editor leaves Trix (and Nova) behind](https://www.artisancraft.dev/why-filaments-new-tiptap-editor-leaves-trix-and-nova-behind/)
+- [Turn a TipTap document into a database with GolemUI](https://golemui.com/blog/turn-a-tiptap-document-into-a-database-with-golemui/)
 
 ## Open source projects using Tiptap
 

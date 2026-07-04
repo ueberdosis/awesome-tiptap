@@ -115,6 +115,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Activepieces](https://github.com/activepieces/activepieces) - Open-source AI automation platform by [@activepieces](https://github.com/activepieces)
 - [Bible School LMS](https://github.com/ArVaViT/biblie-school) - Open-source LMS for Bible schools by [@ArVaViT](https://github.com/ArVaViT)
 - [Cloudflare Agentic Inbox](https://github.com/cloudflare/agentic-inbox) - Self-hosted email client with an AI agent by [@cloudflare](https://github.com/cloudflare)
+- [docen](https://github.com/DemoMacro/docen) - Online Office editors: Tiptap/ProseMirror DOCX engine + converters and a Fluent UI `<docen-document>` web-component editor by [@DemoMacro](https://github.com/DemoMacro)
 - [Docmost](https://github.com/docmost/docmost) - Open-source collaborative wiki and documentation software by [@docmost](https://github.com/docmost)
 - [Doist Typist](https://github.com/Doist/typist) - Tiptap-based rich text editor powering Doist products by [@Doist](https://github.com/Doist)
 - [Dub](https://github.com/dubinc/dub) - Open-source link management platform by [@dubinc](https://github.com/dubinc)

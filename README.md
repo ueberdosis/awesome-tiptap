@@ -39,7 +39,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [tiptap-wproofreader](https://www.npmjs.com/package/@webspellchecker/wproofreader-tiptap) by [@WebSpellChecker](https://github.com/WebSpellChecker)
 - [tiptap-writetrack](https://www.npmjs.com/package/@writetrack/tiptap) by [@ammil-industries](https://github.com/ammil-industries)
 - [tiptap-marquee-selection](https://github.com/jeunecouy/tiptap-marquee-selection) by [@jeunecouy](https://github.com/jeunecouy)
-- [tiptap-model-language](https://www.npmjs.com/package/model-language) by [@WexioHub](https://github.com/Wexiohub)
+- [tiptap-model-language](https://www.npmjs.com/package/tiptap-model-language) by [@WexioHub](https://github.com/Wexiohub)
 
 ## Demos
 

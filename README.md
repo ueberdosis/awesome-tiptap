@@ -39,6 +39,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [tiptap-wproofreader](https://www.npmjs.com/package/@webspellchecker/wproofreader-tiptap) by [@WebSpellChecker](https://github.com/WebSpellChecker)
 - [tiptap-writetrack](https://www.npmjs.com/package/@writetrack/tiptap) by [@ammil-industries](https://github.com/ammil-industries)
 - [tiptap-marquee-selection](https://github.com/jeunecouy/tiptap-marquee-selection) by [@jeunecouy](https://github.com/jeunecouy)
+- [tiptap-model-language](https://www.npmjs.com/package/tiptap-model-language) by [@WexioHub](https://github.com/Wexiohub)
 
 ## Demos
 
@@ -51,6 +52,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [umo-editor-playground](https://demo.umodoc.com/editor?lang=en-US&theme=light) by [@umodoc](https://github.com/umodoc)
 - [tiptap-engine-flutter-app](https://github.com/blackcoffee2/tiptap-engine-flutter-app) by [@blackcoffee2](https://github.com/blackcoffee2)
 - [tiptap-golemui-forms](https://github.com/golemui/demos/tree/main/tiptap) by [@golemui](https://github.com/golemui)
+- [tiptap-model-language](https://ml.wexio.io) by [@WexioHub](https://github.com/Wexiohub)
 
 ## React
 

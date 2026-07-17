@@ -183,6 +183,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Storipress](https://storipress.com)
 - [Superthread](https://www.superthread.com)
 - [TaleForge](https://www.tale-forge.com/)
+- [Trainual](https://trainual.com)
 - [Velt](https://velt.dev)
 - [Vizy](https://verbb.io/craft-plugins/vizy/features)
 - [Wordware](https://www.wordware.ai)

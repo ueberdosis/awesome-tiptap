@@ -115,6 +115,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 ## Open source projects using Tiptap
 
 - [Activepieces](https://github.com/activepieces/activepieces) - Open-source AI automation platform by [@activepieces](https://github.com/activepieces)
+- [api-doctor](https://github.com/qualtyco/api-doctor) - Open-source rules that catch common Tiptap mistakes in AI-generated Tiptap code by [@qualtyco](https://github.com/qualtyco)
 - [Bible School LMS](https://github.com/ArVaViT/biblie-school) - Open-source LMS for Bible schools by [@ArVaViT](https://github.com/ArVaViT)
 - [Cloudflare Agentic Inbox](https://github.com/cloudflare/agentic-inbox) - Self-hosted email client with an AI agent by [@cloudflare](https://github.com/cloudflare)
 - [docen](https://github.com/DemoMacro/docen) - Open-source WYSIWYG DOCX editor with a Fluent UI host, fixed-page pagination, and Office.js-style add-ins by [@DemoMacro](https://github.com/DemoMacro)

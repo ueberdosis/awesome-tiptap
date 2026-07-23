@@ -131,6 +131,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Hyperlink Card by Halo](https://github.com/halo-sigs/plugin-editor-hyperlink-card) - Converts hyperlinks to cards by [@halo-sigs](https://github.com/halo-sigs)
 - [Hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings by [@fastrepl](https://github.com/fastrepl)
 - [Idea Forge](https://github.com/chenxiaoyao6228/idea-forge) - Notion-like collaborative document platform with AI capabilities by [@chenxiaoyao6228](https://github.com/chenxiaoyao6228)
+- [Instatic](https://github.com/CoreBunch/Instatic) - Self-hosted visual CMS by [@CoreBunch](https://github.com/CoreBunch)
 - [KaTeX Block by Halo](https://github.com/halo-sigs/plugin-katex) - Adds KaTeX support by [@halo-sigs](https://github.com/halo-sigs)
 - [linked](https://github.com/lostdesign/linked) - Journal app by [@lostdesign](https://github.com/lostdesign)
 - [Magic Resume](https://github.com/JOYCEQL/magic-resume) - Open-source AI resume editor by [@JOYCEQL](https://github.com/JOYCEQL)

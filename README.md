@@ -7,6 +7,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 
 ## Community extensions
 
+- [@devslab/editor-ruler-tiptap](https://www.npmjs.com/package/@devslab/editor-ruler-tiptap) by [@devslab-kr](https://github.com/devslab-kr)
 - [@tiptap-codeless/extension-code-block-pro](https://www.npmjs.com/package/@tiptap-codeless/extension-code-block-pro) by [@namelesserlx](https://github.com/namelesserlx)
 - [@tiptap-codeless/extension-drag-handle](https://www.npmjs.com/package/@tiptap-codeless/extension-drag-handle) by [@namelesserlx](https://github.com/namelesserlx)
 - [@tiptap-codeless/extension-file-upload](https://www.npmjs.com/package/@tiptap-codeless/extension-file-upload) by [@namelesserlx](https://github.com/namelesserlx)

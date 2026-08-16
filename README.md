@@ -41,6 +41,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [tiptap-writetrack](https://www.npmjs.com/package/@writetrack/tiptap) by [@ammil-industries](https://github.com/ammil-industries)
 - [tiptap-marquee-selection](https://github.com/jeunecouy/tiptap-marquee-selection) by [@jeunecouy](https://github.com/jeunecouy)
 - [tiptap-model-language](https://www.npmjs.com/package/tiptap-model-language) by [@WexioHub](https://github.com/Wexiohub)
+- [wordpaste](https://github.com/smrifat1411/wordpaste) by [@smrifat1411](https://github.com/smrifat1411)
 
 ## Demos
 

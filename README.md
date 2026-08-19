@@ -65,7 +65,6 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Novel](https://novel.sh/) by [@steven-tey](https://github.com/steven-tey)
 - [reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor) - WYSIWYG rich text editor based on Tiptap and shadcn/ui by [@hunghg255](https://github.com/hunghg255)
 - [shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) by [@NiazMorshed2007](https://github.com/NiazMorshed2007)
-- [scibly] (https://github.com/scibly-dev/scibly) - Duolingo style learning app by [@scibly-dev]
 
 ## Vue.js
 
@@ -162,6 +161,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Utopia Map](https://github.com/utopia-os/utopia-map) - Collaborative map-based app for networking and coordination by [@utopia-os](https://github.com/utopia-os)
 - [useSend](https://github.com/usesend/useSend) - Open-source email platform with a Tiptap-based email editor by [@usesend](https://github.com/usesend)
 - [Yiitap](https://github.com/pileax-ai/yiitap) - AI-powered, Notion-style WYSIWYG rich text editor by [@pileax-ai](https://github.com/pileax-ai)
+- [scibly](https://github.com/scibly-dev/scibly) - Duolingo style learning app by [@scibly-dev]
 
 ## Who’s using Tiptap?
 

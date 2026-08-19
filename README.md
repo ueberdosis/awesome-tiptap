@@ -69,6 +69,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 ## Vue.js
 
 - [fylepad](https://github.com/imrofayel/fylepad) by [@imrofayel](https://github.com/imrofayel/)
+- [Nuxt UI Editor](https://ui.nuxt.com/docs/components/editor) - Tiptap-based rich text editor component for Nuxt UI by [@nuxt](https://github.com/nuxt)
 - [nuxt-tiptap-editor](https://github.com/modbender/nuxt-tiptap-editor) by [@modbender](https://github.com/modbender)
 - [tiptap-vuetify](https://github.com/777genius/tiptap-vuetify) by [@777genius](https://github.com/777genius)
 - [tiptap-custom-link-vue-router](https://github.com/worldpwn/tiptap-custom-link-vue-router) by [@worldpwn](https://github.com/worldpwn)

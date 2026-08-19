@@ -150,6 +150,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Outstatic](https://github.com/avitorio/outstatic) - GitHub-backed Markdown and MDX CMS by [@avitorio](https://github.com/avitorio)
 - [PlaceNoter](https://github.com/sereneinserenade/placenoter/) - Chrome extension that replaces the new tab with a note-taking app by [@sereneinserenade](https://github.com/sereneinserenade)
 - [Plane](https://github.com/makeplane/plane) - Open-source project management platform by [@makeplane](https://github.com/makeplane)
+- [Scibly](https://github.com/scibly-dev/scibly) - Duolingo style learning app by [@scibly-dev]
 - [strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor) - Tiptap editor plugin for Strapi by [@dasmikko](https://github.com/dasmikko)
 - [Text Diagram by Halo](https://github.com/halo-sigs/plugin-text-diagram) - Adds Mermaid and PlantUML diagram support by [@halo-sigs](https://github.com/halo-sigs)
 - [think](https://github.com/fantasticit/think) - Collaborative web app with Markdown support by [@fantasticit](https://github.com/fantasticit)
@@ -161,7 +162,6 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Utopia Map](https://github.com/utopia-os/utopia-map) - Collaborative map-based app for networking and coordination by [@utopia-os](https://github.com/utopia-os)
 - [useSend](https://github.com/usesend/useSend) - Open-source email platform with a Tiptap-based email editor by [@usesend](https://github.com/usesend)
 - [Yiitap](https://github.com/pileax-ai/yiitap) - AI-powered, Notion-style WYSIWYG rich text editor by [@pileax-ai](https://github.com/pileax-ai)
-- [scibly](https://github.com/scibly-dev/scibly) - Duolingo style learning app by [@scibly-dev]
 
 ## Who’s using Tiptap?
 

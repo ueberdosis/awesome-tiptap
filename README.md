@@ -150,6 +150,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Outstatic](https://github.com/avitorio/outstatic) - GitHub-backed Markdown and MDX CMS by [@avitorio](https://github.com/avitorio)
 - [PlaceNoter](https://github.com/sereneinserenade/placenoter/) - Chrome extension that replaces the new tab with a note-taking app by [@sereneinserenade](https://github.com/sereneinserenade)
 - [Plane](https://github.com/makeplane/plane) - Open-source project management platform by [@makeplane](https://github.com/makeplane)
+- [Scibly](https://github.com/scibly-dev/scibly) - Duolingo style learning app by [@scibly-dev]
 - [strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor) - Tiptap editor plugin for Strapi by [@dasmikko](https://github.com/dasmikko)
 - [Text Diagram by Halo](https://github.com/halo-sigs/plugin-text-diagram) - Adds Mermaid and PlantUML diagram support by [@halo-sigs](https://github.com/halo-sigs)
 - [think](https://github.com/fantasticit/think) - Collaborative web app with Markdown support by [@fantasticit](https://github.com/fantasticit)

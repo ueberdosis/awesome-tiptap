@@ -8,6 +8,11 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 ## Community extensions
 
 - [@devslab/editor-ruler-tiptap](https://www.npmjs.com/package/@devslab/editor-ruler-tiptap) by [@devslab-kr](https://github.com/devslab-kr)
+- [@docs.plus/extension-hyperlink](https://www.npmjs.com/package/@docs.plus/extension-hyperlink) by [@docs-plus](https://github.com/docs-plus)
+- [@docs.plus/extension-hypermultimedia](https://www.npmjs.com/package/@docs.plus/extension-hypermultimedia) by [@docs-plus](https://github.com/docs-plus)
+- [@docs.plus/extension-indent](https://www.npmjs.com/package/@docs.plus/extension-indent) by [@docs-plus](https://github.com/docs-plus)
+- [@docs.plus/extension-inline-code](https://www.npmjs.com/package/@docs.plus/extension-inline-code) by [@docs-plus](https://github.com/docs-plus)
+- [@docs.plus/extension-placeholder](https://www.npmjs.com/package/@docs.plus/extension-placeholder) by [@docs-plus](https://github.com/docs-plus)
 - [@tiptap-codeless/extension-code-block-pro](https://www.npmjs.com/package/@tiptap-codeless/extension-code-block-pro) by [@namelesserlx](https://github.com/namelesserlx)
 - [@tiptap-codeless/extension-drag-handle](https://www.npmjs.com/package/@tiptap-codeless/extension-drag-handle) by [@namelesserlx](https://github.com/namelesserlx)
 - [@tiptap-codeless/extension-file-upload](https://www.npmjs.com/package/@tiptap-codeless/extension-file-upload) by [@namelesserlx](https://github.com/namelesserlx)
@@ -124,6 +129,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Cloudflare Agentic Inbox](https://github.com/cloudflare/agentic-inbox) - Self-hosted email client with an AI agent by [@cloudflare](https://github.com/cloudflare)
 - [docen](https://github.com/DemoMacro/docen) - Open-source WYSIWYG DOCX editor with a Fluent UI host, fixed-page pagination, and Office.js-style add-ins by [@DemoMacro](https://github.com/DemoMacro)
 - [Docmost](https://github.com/docmost/docmost) - Open-source collaborative wiki and documentation software by [@docmost](https://github.com/docmost)
+- [docs.plus](https://github.com/docs-plus/docs.plus) - Real-time collaborative document editor with per-heading chat by [@docs-plus](https://github.com/docs-plus)
 - [Doist Typist](https://github.com/Doist/typist) - Tiptap-based rich text editor powering Doist products by [@Doist](https://github.com/Doist)
 - [Dub](https://github.com/dubinc/dub) - Open-source link management platform by [@dubinc](https://github.com/dubinc)
 - [EmDash](https://github.com/emdash-cms/emdash) - Full-stack TypeScript CMS based on Astro by [@emdash-cms](https://github.com/emdash-cms)

@@ -132,6 +132,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [docs.plus](https://github.com/docs-plus/docs.plus) - Real-time collaborative document editor with per-heading chat by [@docs-plus](https://github.com/docs-plus)
 - [Doist Typist](https://github.com/Doist/typist) - Tiptap-based rich text editor powering Doist products by [@Doist](https://github.com/Doist)
 - [Dub](https://github.com/dubinc/dub) - Open-source link management platform by [@dubinc](https://github.com/dubinc)
+- [EdgeEver](https://github.com/tianma-if/edgeever) - Open-source self-hosted notes workspace with rich-text and Markdown editing, cross-platform clients, and native MCP integration by [@tianma-if](https://github.com/tianma-if)
 - [EmDash](https://github.com/emdash-cms/emdash) - Full-stack TypeScript CMS based on Astro by [@emdash-cms](https://github.com/emdash-cms)
 - [Featul](https://github.com/usefeatul/featul) - Open-source feature flag and roadmap platform by [@usefeatul](https://github.com/usefeatul)
 - [fylepad](https://github.com/imrofayel/fylepad) - Notepad with rich text editing based on Nuxt 3 by [@imrofayel](https://github.com/imrofayel/)

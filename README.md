@@ -135,6 +135,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [EdgeEver](https://github.com/tianma-if/edgeever) - Open-source self-hosted notes workspace with rich-text and Markdown editing, cross-platform clients, and native MCP integration by [@tianma-if](https://github.com/tianma-if)
 - [EmDash](https://github.com/emdash-cms/emdash) - Full-stack TypeScript CMS based on Astro by [@emdash-cms](https://github.com/emdash-cms)
 - [Featul](https://github.com/usefeatul/featul) - Open-source feature flag and roadmap platform by [@usefeatul](https://github.com/usefeatul)
+- [Folio](https://github.com/Sall25/folio) - Collaborative workspace for teams, schools and communities: block editor, wikis and inline databases with real-time collaboration (Yjs, Hocuspocus).
 - [fylepad](https://github.com/imrofayel/fylepad) - Notepad with rich text editing based on Nuxt 3 by [@imrofayel](https://github.com/imrofayel/)
 - [GitLab’s editor](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/assets/javascripts/content_editor)
 - [Gramax](https://github.com/Gram-ax/gramax) - Git-driven documentation sites by [@Gram-ax](https://github.com/Gram-ax)

@@ -160,6 +160,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Plane](https://github.com/makeplane/plane) - Open-source project management platform by [@makeplane](https://github.com/makeplane)
 - [Scibly](https://github.com/scibly-dev/scibly) - Duolingo style learning app by [@scibly-dev]
 - [strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor) - Tiptap editor plugin for Strapi by [@dasmikko](https://github.com/dasmikko)
+- [T3 Code](https://github.com/pingdotgg/t3code) - Open-source coding agent interface with a Tiptap-based prompt composer by [@pingdotgg](https://github.com/pingdotgg)
 - [Text Diagram by Halo](https://github.com/halo-sigs/plugin-text-diagram) - Adds Mermaid and PlantUML diagram support by [@halo-sigs](https://github.com/halo-sigs)
 - [think](https://github.com/fantasticit/think) - Collaborative web app with Markdown support by [@fantasticit](https://github.com/fantasticit)
 - [Tiptap editor template](https://github.com/phyohtetarkar/tiptap-block-editor) by [@phyohtetarkar](https://github.com/phyohtetarkar)

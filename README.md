@@ -177,6 +177,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Anvil](https://www.useanvil.io)
 - [Atlas.co](https://atlas.co)
 - [Bika.ai](https://bika.ai)
+- [Bolt](https://bolt.new)
 - [Campsite](https://www.campsite.com)
 - [Clueso](https://www.clueso.io)
 - [DocIQ](https://www.dociq.io)

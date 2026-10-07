@@ -129,7 +129,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Cloudflare Agentic Inbox](https://github.com/cloudflare/agentic-inbox) - Self-hosted email client with an AI agent by [@cloudflare](https://github.com/cloudflare)
 - [docen](https://github.com/DemoMacro/docen) - Open-source WYSIWYG DOCX editor with a Fluent UI host, fixed-page pagination, and Office.js-style add-ins by [@DemoMacro](https://github.com/DemoMacro)
 - [Docmost](https://github.com/docmost/docmost) - Open-source collaborative wiki and documentation software by [@docmost](https://github.com/docmost).
-- [docs.plus](https://github.com/docs-plus/docs.plus) - Real-time collaborative document editor with per-heading chat by [@docs-plus](https://github.com/docs-plus)
+- [docs.plus](https://github.com/docs-plus/docs.plus) - Real-time collaborative document editor with per-heading chat by [@docs-plus](https://github.com/docs-plus).
 - [Doist Typist](https://github.com/Doist/typist) - Tiptap-based rich text editor powering Doist products by [@Doist](https://github.com/Doist)
 - [Dub](https://github.com/dubinc/dub) - Open-source link management platform by [@dubinc](https://github.com/dubinc)
 - [EdgeEver](https://github.com/tianma-if/edgeever) - Open-source self-hosted notes workspace with rich-text and Markdown editing, cross-platform clients, and native MCP integration by [@tianma-if](https://github.com/tianma-if)

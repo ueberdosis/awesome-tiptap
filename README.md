@@ -156,6 +156,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Notra](https://github.com/Levix0501/notra) - Open-source knowledge management system built with Next.js and Tiptap by [@Levix0501](https://github.com/Levix0501)
 - [OpenSlides](https://github.com/OpenSlides/OpenSlides) - Digital motion and assembly system by [@OpenSlides](https://github.com/OpenSlides)
 - [Outstatic](https://github.com/avitorio/outstatic) - GitHub-backed Markdown and MDX CMS by [@avitorio](https://github.com/avitorio)
+- [Oxynote](https://github.com/oxynote/oxynote) - Self-hosted documentation with live Prometheus charts as editor blocks and pull-request-style reviews by [@oxynote](https://github.com/oxynote)
 - [PlaceNoter](https://github.com/sereneinserenade/placenoter/) - Chrome extension that replaces the new tab with a note-taking app by [@sereneinserenade](https://github.com/sereneinserenade)
 - [Plane](https://github.com/makeplane/plane) - Open-source project management platform by [@makeplane](https://github.com/makeplane)
 - [Scibly](https://github.com/scibly-dev/scibly) - Duolingo style learning app by [@scibly-dev]

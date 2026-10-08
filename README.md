@@ -192,6 +192,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Joggr](https://joggr.io)
 - [Letter](https://letter.so)
 - [Mintlify](https://www.mintlify.com)
+- [Mistral AI](https://chat.mistral.ai)
 - [mymind](https://mymind.com)
 - [OnePile](https://onepile.app) by [@holtwick](https://github.com/holtwick)
 - [PentestPad](https://pentestpad.com)

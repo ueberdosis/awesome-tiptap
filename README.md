@@ -70,6 +70,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Novel](https://novel.sh/) by [@steven-tey](https://github.com/steven-tey)
 - [reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor) - WYSIWYG rich text editor based on Tiptap and shadcn/ui by [@hunghg255](https://github.com/hunghg255)
 - [shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) by [@NiazMorshed2007](https://github.com/NiazMorshed2007)
+- [I Haza Website](https://i.haza.website) - Create web pages using Tiptap and publish to a subdomain by [@mblaney](https://github.com/mblaney)
 
 ## Vue.js
 

@@ -64,6 +64,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 ## React
 
 - [BlockNote](https://github.com/TypeCellOS/BlockNote) - Block-based React rich text editor built on ProseMirror and Tiptap by [@TypeCellOS](https://github.com/TypeCellOS)
+- [editorcn](https://github.com/shadcn-labs/editorcn) - Composable toolbar and block editor components for React, distributed via the shadcn registry by [@shadcn-labs](https://github.com/shadcn-labs)
 - [Mantine Tiptap](https://github.com/mantinedev/mantine/tree/master/packages/%40mantine/tiptap) - Tiptap-based rich text editor component for Mantine by [@mantinedev](https://github.com/mantinedev)
 - [minimal-tiptap](https://github.com/Aslam97/minimal-tiptap) by [@Aslam97](https://github.com/Aslam97)
 - [mui-tiptap](https://github.com/sjdemartini/mui-tiptap) - Material UI-styled WYSIWYG rich text editor by [@sjdemartini](https://github.com/sjdemartini)

@@ -12,6 +12,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [@docs.plus/extension-hypermultimedia](https://www.npmjs.com/package/@docs.plus/extension-hypermultimedia) by [@docs-plus](https://github.com/docs-plus)
 - [@docs.plus/extension-indent](https://www.npmjs.com/package/@docs.plus/extension-indent) by [@docs-plus](https://github.com/docs-plus)
 - [@docs.plus/extension-inline-code](https://www.npmjs.com/package/@docs.plus/extension-inline-code) by [@docs-plus](https://github.com/docs-plus)
+- [@docs.plus/extension-mermaid](https://www.npmjs.com/package/@docs.plus/extension-mermaid) by [@docs-plus](https://github.com/docs-plus)
 - [@docs.plus/extension-placeholder](https://www.npmjs.com/package/@docs.plus/extension-placeholder) by [@docs-plus](https://github.com/docs-plus)
 - [@tiptap-codeless/extension-code-block-pro](https://www.npmjs.com/package/@tiptap-codeless/extension-code-block-pro) by [@namelesserlx](https://github.com/namelesserlx)
 - [@tiptap-codeless/extension-drag-handle](https://www.npmjs.com/package/@tiptap-codeless/extension-drag-handle) by [@namelesserlx](https://github.com/namelesserlx)

@@ -191,6 +191,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Fynk](https://fynk.com)
 - [Gamma](https://gamma.app/#recent)
 - [Grimo](https://beta.grimo.ai)
+- [I Haza Website](https://i.haza.website) - Create web pages using Tiptap and publish to a subdomain by [@mblaney](https://github.com/mblaney)
 - [Joggr](https://joggr.io)
 - [Letter](https://letter.so)
 - [Mintlify](https://www.mintlify.com)

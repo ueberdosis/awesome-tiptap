@@ -106,6 +106,10 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Python library that converts Tiptap JSON](https://github.com/stckme/tiptapy) by [@stckme](https://github.com/stckme)
 - [tiptap-python-utils](https://github.com/tugkanpilka/tiptap-python-utils) — Pure-Python utilities for processing TipTap JSON server-side by [@tugkanpilka](https://github.com/tugkanpilka)
 
+## Ruby
+
+- [ProseMirror for Ruby](https://github.com/etaminstudio/prosemirror) - Convert Tiptap JSON to and from HTML, Markdown and plain text in Ruby by [@etaminstudio](https://github.com/etaminstudio)
+
 ## Collaborative editing
 
 - [Hocuspocus collaborative editing backend](https://hocuspocus.dev) by [@ueberdosis](https://github.com/ueberdosis)

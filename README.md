@@ -185,6 +185,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [Atlas.co](https://atlas.co)
 - [Bika.ai](https://bika.ai)
 - [Bolt](https://bolt.new)
+- [Breatic](https://github.com/orime-org/breatic) - Collaborative AI workspace with a BlockNote/Tiptap-based document editor.
 - [Campsite](https://www.campsite.com)
 - [Clueso](https://www.clueso.io)
 - [DocIQ](https://www.dociq.io)

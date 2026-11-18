@@ -70,6 +70,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [minimal-tiptap](https://github.com/Aslam97/minimal-tiptap) by [@Aslam97](https://github.com/Aslam97)
 - [mui-tiptap](https://github.com/sjdemartini/mui-tiptap) - Material UI-styled WYSIWYG rich text editor by [@sjdemartini](https://github.com/sjdemartini)
 - [Novel](https://novel.sh/) by [@steven-tey](https://github.com/steven-tey)
+- [Post Canvas](https://github.com/saimulft/post-canvas) - React rich text editor for posts and articles, with image galleries, collages, embeds and a server-side sanitizer by [@saimulft](https://github.com/saimulft)
 - [reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor) - WYSIWYG rich text editor based on Tiptap and shadcn/ui by [@hunghg255](https://github.com/hunghg255)
 - [shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) by [@NiazMorshed2007](https://github.com/NiazMorshed2007)
 

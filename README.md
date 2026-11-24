@@ -213,6 +213,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 - [TaleForge](https://www.tale-forge.com/)
 - [Trainual](https://trainual.com)
 - [Velt](https://velt.dev)
+- [Vibes DIY](https://vibes.diy) - Notes, journal and docs apps made from a sentence get a Tiptap rich-text editor.
 - [Vizy](https://verbb.io/craft-plugins/vizy/features)
 - [Wordware](https://www.wordware.ai)
 - [WriteTrack](https://writetrack.dev/app)

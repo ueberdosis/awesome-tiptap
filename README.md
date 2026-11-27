@@ -7,6 +7,7 @@ A headless, framework-agnostic, and extensible rich text editor based on [ProseM
 
 ## Community extensions
 
+- [@assetfeed/tiptap-ai-detector](https://github.com/assetfeed/ai-detector-plugins/tree/main/packages/tiptap) by [@assetfeed](https://github.com/assetfeed)
 - [@devslab/editor-ruler-tiptap](https://www.npmjs.com/package/@devslab/editor-ruler-tiptap) by [@devslab-kr](https://github.com/devslab-kr)
 - [@docs.plus/extension-hyperlink](https://www.npmjs.com/package/@docs.plus/extension-hyperlink) by [@docs-plus](https://github.com/docs-plus)
 - [@docs.plus/extension-hypermultimedia](https://www.npmjs.com/package/@docs.plus/extension-hypermultimedia) by [@docs-plus](https://github.com/docs-plus)
